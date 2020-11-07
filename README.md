@@ -1,2 +1,2 @@
 # prova
-è una prova
+è una prova di come usare git
